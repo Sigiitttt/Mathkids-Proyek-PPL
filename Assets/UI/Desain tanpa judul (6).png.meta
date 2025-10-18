@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1d13960f6318c764cabd0fdfd65734ec
+guid: c4d71c53d32a364449ac9d59ab20c631
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2113483900156250566
-    second: Desain tanpa judul (1)_0
+      213: -8108684554641483636
+    second: Desain tanpa judul (6)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Desain tanpa judul (1)_0
+      name: Desain tanpa judul (6)_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2048
-        height: 2048
+        x: 329
+        y: 766
+        width: 1401
+        height: 517
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6c90253d86a945d10800000000000000
-      internalID: 2113483900156250566
+      spriteID: c88d5e4fb5a287f80800000000000000
+      internalID: -8108684554641483636
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Desain tanpa judul (1)_0: 2113483900156250566
+      Desain tanpa judul (6)_0: -8108684554641483636
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

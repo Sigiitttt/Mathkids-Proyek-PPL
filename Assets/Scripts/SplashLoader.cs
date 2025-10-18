@@ -5,7 +5,7 @@ public class SplashScreen : MonoBehaviour
 {
     void Start()
     {
-        Invoke("GoToHome", 2f);
+        Invoke("GoToHome", 2.1f);
     }
 
     void GoToHome()

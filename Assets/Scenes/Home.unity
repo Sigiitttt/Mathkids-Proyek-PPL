@@ -339,7 +339,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 1920, y: 1080}
+  m_ReferenceResolution: {x: 1080, y: 1920}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
@@ -995,7 +995,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 80}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -145, y: -618}
+  m_AnchoredPosition: {x: -162, y: -565}
   m_SizeDelta: {x: 75, y: 75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &623185142
@@ -1050,7 +1050,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::StarFloatUI
   floatSpeed: 1
   floatHeight: 7
-  rotationSpeed: 40
+  rotationSpeed: 60
   pulseSpeed: 2
   pulseScale: 0.1
 --- !u!1 &943641876
@@ -1355,7 +1355,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -1607788846829448046, guid: fb232b1bb9b1b514793a2d0387339aef, type: 3}
+  m_Sprite: {fileID: -8220382380959514827, guid: ad46eafeeb7f51f48863fae298830c9c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
